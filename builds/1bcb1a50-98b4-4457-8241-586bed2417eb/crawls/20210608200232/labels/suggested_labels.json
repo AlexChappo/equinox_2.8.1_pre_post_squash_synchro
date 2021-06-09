@@ -1,5 +1,14 @@
 {
     "elems": {
+        "iter_00000_step_00000_36_a.png": {
+            "pilates": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
         "iter_00000_step_00000_46_span.png": {
             "shop": {
                 "all_scores": {
